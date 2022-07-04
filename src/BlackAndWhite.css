@@ -1,0 +1,44 @@
+.heading-1{
+    text-align: left;
+    color: black;
+    
+}
+
+.para-1{
+     text-align: left;
+    color: black;
+}
+
+.btn{
+    background-color: #6c757d;
+}
+
+.card-1 {
+    padding: 1rem;
+    background-color: white;
+}
+
+.row{
+   
+    width: 90rem;
+    height: 33rem;
+    margin-top: 0;
+}
+
+
+.cards{
+width: 24rem;
+height: 52rem;
+
+margin-left: 90px;
+margin-top: 10px;
+
+}  
+
+
+
+
+
+
+
+

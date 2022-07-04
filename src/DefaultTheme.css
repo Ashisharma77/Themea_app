@@ -1,0 +1,25 @@
+.card{
+width: 24rem;
+height: 25rem;
+
+margin-left: 90px;
+margin-top: 70px;
+
+}
+
+.card-body {
+    padding: 1rem;
+    background-color: lightsteelblue;
+}
+
+.card-img{
+    width: 100%;
+}
+
+h5, p{
+    text-align: left;
+    color: red;
+    
+}
+
+
